@@ -1,0 +1,9 @@
+# Virtualenv directory
+venv
+
+# ENV
+env
+
+# Build files
+__pycache__
+.pyc
