@@ -23,3 +23,8 @@ A template to export the variables is provided in `env.template`. Complete the t
 ```bash
 ./env python manage.py runserver
 ```
+
+## Heroku instance
+An instance of the APP is deployed in https://flask-master-ds-clorenzo.herokuapp.com/
+
+The credentials are the same that the given in the Jupyter notebook.
